@@ -1,0 +1,19 @@
+{
+    "nome": "The Principal",
+    "album": "K-12",
+    "estilo": "Alternative/Indie",
+    "preco": "R$ 61,99",
+    "imagem": "<img src= 'IMGs/theprincipal.jpg' width='150px'>",
+
+    "nome2": "Mrs Potato Head",
+    "album2": "Cry Baby",
+    "estilo2": "Alternative/Indie, Pop",
+    "preco2": "R$ 59,99",
+    "imagem2": "<img src= 'IMGs/mrspotatohead.png' width='150px'>",
+
+    "nome3": "Cry Baby",
+    "album3": "Cry Baby",
+    "estilo3": "Alternative/Indie, Pop, ElectroPop",
+    "preco3": "R$ 49,99",
+    "imagem3": "<img src= 'IMGs/crybaby.jpg' width='150px'>"
+}
